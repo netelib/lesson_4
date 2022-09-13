@@ -1,0 +1,57 @@
+.life{
+    color: blue;
+}
+.now{
+    color: blueviolet;
+}
+.look{
+    color: brown;
+}
+.old{
+    color: purple;
+}
+.stong{
+    color: black;
+}
+h2{
+    color: red;
+}
+h1{
+    font-family: "Larsseit";
+    font-weight: 700;
+    font-size: 41px;
+}
+h2{
+    font-family: "Lato";
+    font-weight: 900;
+    font-size: 30px;
+}
+header lu {
+    color: olivedrab;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 25px;
+}
+p{
+    font-family: "Lato";
+    font-weight: 500;
+    font-size: 20px;
+    
+}
+footer a.las {
+    color: brown;
+    font-family:"Lato";
+    font-weight: 900;
+    font-size: 40px;
+
+}
+.stong{
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}
+.my {
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}

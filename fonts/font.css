@@ -1,0 +1,44 @@
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit-Bold.woff2") format("woff2"), url("Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit-Medium.woff2") format("woff2"), url("Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit.woff2") format("woff2"), url("Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("latoblack.woff2") format("woff2"), url("latoblack.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("Larsseit-Bold.woff2") format("woff2"), url("Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("Larsseit-Medium.woff2") format("woff2"), url("Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
